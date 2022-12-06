@@ -1,4 +1,4 @@
-# exp5
+# exp6
 ### FILE MANAGEMENT USING SEQUENTIAL ALLOCATION:
 ```
 #include < stdio.h>
